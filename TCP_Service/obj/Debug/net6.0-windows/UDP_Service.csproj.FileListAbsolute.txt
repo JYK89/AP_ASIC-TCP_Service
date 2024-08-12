@@ -1,0 +1,17 @@
+D:\Project\TCP\App\TCP_Service\bin\Debug\net6.0-windows\UDP_Service.exe
+D:\Project\TCP\App\TCP_Service\bin\Debug\net6.0-windows\UDP_Service.deps.json
+D:\Project\TCP\App\TCP_Service\bin\Debug\net6.0-windows\UDP_Service.runtimeconfig.json
+D:\Project\TCP\App\TCP_Service\bin\Debug\net6.0-windows\UDP_Service.dll
+D:\Project\TCP\App\TCP_Service\bin\Debug\net6.0-windows\UDP_Service.pdb
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.csproj.AssemblyReference.cache
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\TCP_Service.UDP_mainForm.resources
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.csproj.GenerateResource.cache
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.AssemblyInfoInputs.cache
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.AssemblyInfo.cs
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.csproj.CoreCompileInputs.cache
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.dll
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\refint\UDP_Service.dll
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.pdb
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\UDP_Service.genruntimeconfig.cache
+D:\Project\TCP\App\TCP_Service\obj\Debug\net6.0-windows\ref\UDP_Service.dll
